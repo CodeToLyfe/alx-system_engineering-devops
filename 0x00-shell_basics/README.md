@@ -6,3 +6,4 @@ Directory contains executables for shell basics scripts
 4. 3-listfiles: Display current directory contents in a long format.
 5. 4-listmorefiles: Display contents including hidden files.
 6. 5-listfilesdigitonly: Display all contents with user and group IDs in digits.
+7. 6-firstdirectory: Create a directory in another directory.
