@@ -14,4 +14,17 @@ Directory contains executables for shell basics scripts
 
 7. 6-firstdirectory: Create a directory in another directory.
 
-8. 7-movethatfile: Move file from one directory to another directory. 
+8. 7-movethatfile: Move file from one directory to another directory.
+
+9. 8-firstdelete: Delete a file.
+
+10. 9-my_first_directory: Delete a directory.
+
+11. 10-back: Change current directory to previous one.
+
+12. 11-lists: List directories in order of call.
+
+13. 12-file_type: Display info about what type a file is.
+
+14. 13-symbolic_link: Create a symbolink link.
+ 
