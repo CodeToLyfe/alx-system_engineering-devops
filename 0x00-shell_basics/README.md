@@ -27,4 +27,6 @@ Directory contains executables for shell basics scripts
 13. 12-file_type: Display info about what type a file is.
 
 14. 13-symbolic_link: Create a symbolink link.
- 
+
+15. 14-copy_html: Copy html files from wdir to pdir, but only copy files that did not exist inparent of the working directory or were newer than the versions in the pdir.
+
